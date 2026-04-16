@@ -1,0 +1,83 @@
+.macbook-air {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1920px;
+  min-height: 1080px;
+  position: relative;
+}
+
+.macbook-air .rectangle {
+  top: 26px;
+  height: 170px;
+  position: absolute;
+  left: 0;
+  width: 1920px;
+  background-color: #faff00;
+}
+
+.macbook-air .div {
+  top: 966px;
+  height: 90px;
+  position: absolute;
+  left: 0;
+  width: 1920px;
+  background-color: #faff00;
+}
+
+.macbook-air .text-wrapper {
+  position: absolute;
+  top: 119px;
+  left: 1359px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-2 {
+  position: absolute;
+  top: 119px;
+  left: 1627px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-3 {
+  position: absolute;
+  top: 119px;
+  left: 1129px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-4 {
+  position: absolute;
+  top: 120px;
+  left: 912px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .element {
+  position: absolute;
+  top: 402px;
+  left: 795px;
+  width: 330px;
+  height: 279px;
+  aspect-ratio: 1.18;
+  object-fit: cover;
+}
